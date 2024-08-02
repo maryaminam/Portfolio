@@ -14,7 +14,7 @@ function Projects() {
           <ProjectCard src={CPU} link="https://github.com/maryaminam/CPU-Scheduler" h3="CPU Scheduler"/>
           <ProjectCard src={hms} link="https://github.com/maryaminam/Hospital-Management-System-in-JAVA" h3="Hospital Management System"/>
           <ProjectCard src={atm} link="https://github.com/maryaminam/ATM-" h3="ATM System"/>
-          <ProjectCard src={portfolio} link="https://github.com/maryaminam/Portfolio/tree/main" h3="Portfoilo"/>
+          <ProjectCard src={portfolio} link="https://github.com/maryaminam/Portfolio/tree/main" h3="Portfolio"/>
           
         </div>
     </section>    
