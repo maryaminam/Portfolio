@@ -8,7 +8,8 @@ The project consists of a React application that serves as a portfolio website. 
 4.	Skills.jsx: A section component that lists various skills.
 5.	Footer.jsx: A footer component with additional information.
 6.	Contact.jsx: A section component for contact information.
-Detailed Description
+
+# Detailed Description
 1.	App Component (App.jsx):
 o	Purpose: Serves as the main entry point of the application.
 o	Structure:
