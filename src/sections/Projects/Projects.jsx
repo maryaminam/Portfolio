@@ -5,6 +5,7 @@ import hms from '../../assets/HMS.png';
 import styles from './ProjectsStyles.module.css';
 import ProjectCard from '../../common/ProjectCard';
 import portfolio from '../../assets/portfolio.png';
+import ims from '../../assets/inven.png'
 
 function Projects() {
   return (
@@ -15,7 +16,7 @@ function Projects() {
           <ProjectCard src={hms} link="https://github.com/maryaminam/Hospital-Management-System-in-JAVA" h3="Hospital Management System"/>
           <ProjectCard src={atm} link="https://github.com/maryaminam/ATM-" h3="ATM System"/>
           <ProjectCard src={portfolio} link="https://github.com/maryaminam/Portfolio/tree/main" h3="Portfolio"/>
-          
+          <ProjectCard src={ims} link="https://github.com/maryaminam/Inventory-Management-System" h3="Inventory Management System"/>
         </div>
     </section>    
   )
