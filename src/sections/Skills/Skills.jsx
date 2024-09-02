@@ -17,6 +17,8 @@ function Skills() {
         <SkillList src={checkMarkIcon} skill="Java"/>
         <SkillList src={checkMarkIcon} skill="Python"/>
         <SkillList src={checkMarkIcon} skill="MySQL"/>
+        <SkillList src={checkMarkIcon} skill="Django"/>
+        <SkillList src={checkMarkIcon} skill="React"/>
         <SkillList src={checkMarkIcon} skill="C++"/>
         <SkillList src={checkMarkIcon} skill="Figma"/>
         <SkillList src={checkMarkIcon} skill="Canva"/>

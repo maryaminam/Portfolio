@@ -6,6 +6,9 @@ import styles from './ProjectsStyles.module.css';
 import ProjectCard from '../../common/ProjectCard';
 import portfolio from '../../assets/portfolio.png';
 import ims from '../../assets/inven.png'
+import blog from '../../assets/blog.png'
+import task from '../../assets/task.png'
+import scoop from '../../assets/scoop.png'
 
 function Projects() {
   return (
@@ -17,6 +20,9 @@ function Projects() {
           <ProjectCard src={atm} link="https://github.com/maryaminam/ATM-" h3="ATM System"/>
           <ProjectCard src={portfolio} link="https://github.com/maryaminam/Portfolio/tree/main" h3="Portfolio"/>
           <ProjectCard src={ims} link="https://github.com/maryaminam/Inventory-Management-System" h3="Inventory Management System"/>
+          <ProjectCard src={blog} link="https://github.com/maryaminam/BLOG" h3="Blog Website"/>
+          <ProjectCard src={task} link="https://github.com/maryaminam/NLC-Task-Register" h3="Task Registration System"/>
+          <ProjectCard src={scoop} link="https://github.com/maryaminam/IceCreamParlor" h3="IceCream Delivery Website"/>
         </div>
     </section>    
   )
